@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CSCI271_Week4Lab_ZodiacProgram/CSCI271_Week4Lab_ZodiacProgram.vcxproj" Id="cbbd2e98-6950-493c-b41b-d394aa7b30f8" />
+</Solution>
